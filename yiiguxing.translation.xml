@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="A class can implement the &lt;code&gt;Observer&lt;/code&gt; interface when it * wants to be informed of changes in observable objects." />
+      <item value="informed" />
+      <item value="literal" />
+      <item value="* Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} * unless both neighbors are equidistant, in which case round up. * Behaves as for {@code ROUND_UP} if the discarded fraction is * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note * that this is the rounding mode that most of us were taught in * grade school." />
+      <item value="Annotation that can be used to define one or more alternative names for * a property, accepted during deserialization as alternative to the official * name. Alias information is also exposed during POJO introspection, but has * no effect during serialization where primary name is always used." />
+      <item value="SingularAttribute named billing and of type com.yydscm.model.BillingFee is not present" />
+      <item value="* Inserts the specified element into this queue if it is possible to do so * immediately without violating capacity restrictions, returning * {@code true} upon success and throwing an {@code IllegalStateException} * if no space is currently available." />
+      <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
+      <item value="* Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions." />
+      <item value="restrictions" />
+      <item value="capacity" />
+      <item value="violating" />
+      <item value="Retrieves" />
+      <item value="Specification in the sense of Domain Driven Design" />
+      <item value="* Specification in the sense of Domain Driven Design." />
+      <item value="营收" />
+      <item value="RECEIVE" />
+      <item value="Temporal Adjuster" />
+      <item value="temporal" />
+      <item value="adjusting" />
+      <item value="* Annotation that can be used to apply Mockito spies to a Spring * {@link ApplicationContext}. Can be used as a class level annotation or on fields in * either {@code @Configuration} classes, or test classes that are * {@link RunWith @RunWith} the {@link SpringRunner}. * &lt;p&gt; * Spies can be applied by type or by {@link #name() bean name}. All beans in the context * of the same type will be wrapped with the spy. If no existing bean is defined a new one * will be added. Dependencies that are known to the application context but are not beans * (such as those * {@link org.springframework.beans.factory.config.ConfigurableListableBeanFactory#registerResolvableDependency(Class, Object) * registered directly} ) will not be found and a spied bean will be added to the context * alongside the existing dependency. * &lt;p&gt; * When {@code @SpyBean} is used on a field, as well as being registered in the * application context, the spy will also be injected into the field. Typical usage might * be: &lt;pre class=&quot;code&quot;&gt; * &amp;#064;RunWith(SpringRunner.class) * public class ExampleTests {" />
+      <item value="  净利润" />
+      <item value="  净值" />
+      <item value="jin zhi" />
+      <item value="净" />
+      <item value="总计" />
+      <item value="总运费" />
+      <item value="total" />
+      <item value="Unexpected character ('&quot;' (code 34)): was expecting comma to separate Object entries" />
+      <item value="omitted for conflict with 2.9.6" />
+      <item value="version managed from" />
+      <item value="null" />
+      <item value="injection" />
+      <item value="可用" />
+      <item value="was expecting comma to separate Array entries" />
+      <item value=" String-argument" />
+      <item value="poll" />
+      <item value="get Player" />
+      <item value="comment out in production to improve performance" />
+      <item value="Catlet" />
+      <item value="classpath" />
+      <item value="apidoc sourcedir" />
+      <item value="Maximum number of connections that the server will accept and process at any * given time. Once the limit has been reached, the operating system may still * accept connections based on the &quot;acceptCount&quot; property." />
+      <item value="配送时间" />
+      <item value="redefines" />
+      <item value="deprecated Names" />
+      <item value="The (maximum) number of fragments" />
+      <item value="The size of a fragment in characters" />
+      <item value="* @param fragmentSize The size of a fragment in characters" />
+      <item value="* Sets whether transpositions are supported in fuzzy queries.&lt;p&gt; * The default metric used by fuzzy queries to determine a match is the Damerau-Levenshtein * distance formula which supports transpositions. Setting transposition to false will * switch to classic Levenshtein distance.&lt;br&gt; * If not set, Damerau-Levenshtein distance metric will be used." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="FRENCH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
