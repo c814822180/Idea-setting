@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiply" />
+      <item value="collection Fee" />
+      <item value="find By Logistics Uuid" />
       <item value="A class can implement the &lt;code&gt;Observer&lt;/code&gt; interface when it * wants to be informed of changes in observable objects." />
       <item value="informed" />
       <item value="literal" />
@@ -48,14 +51,11 @@
       <item value="redefines" />
       <item value="deprecated Names" />
       <item value="The (maximum) number of fragments" />
-      <item value="The size of a fragment in characters" />
-      <item value="* @param fragmentSize The size of a fragment in characters" />
-      <item value="* Sets whether transpositions are supported in fuzzy queries.&lt;p&gt; * The default metric used by fuzzy queries to determine a match is the Damerau-Levenshtein * distance formula which supports transpositions. Setting transposition to false will * switch to classic Levenshtein distance.&lt;br&gt; * If not set, Damerau-Levenshtein distance metric will be used." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
