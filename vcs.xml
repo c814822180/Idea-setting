@@ -178,6 +178,10 @@
           <option name="url" value="https://gitee.com/assissn/sc-wechat-mini-spring-boot-starter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/nbooks/nbooks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
