@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Used to specify the path and boundaries for a find operation or query." />
+      <item value="Specifies that the property or field is not persistent. It is used * to annotate a property or field of an entity class, mapped * superclass, or embeddable class." />
       <item value="multiply" />
       <item value="collection Fee" />
       <item value="find By Logistics Uuid" />
@@ -49,23 +51,16 @@
       <item value="Maximum number of connections that the server will accept and process at any * given time. Once the limit has been reached, the operating system may still * accept connections based on the &quot;acceptCount&quot; property." />
       <item value="配送时间" />
       <item value="redefines" />
-      <item value="deprecated Names" />
-      <item value="The (maximum) number of fragments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
