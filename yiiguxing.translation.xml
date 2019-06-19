@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Buffered Reader" />
       <item value="points Fee" />
       <item value="coupon Fee" />
       <item value="receipt Fee" />
@@ -50,12 +51,11 @@
       <item value="comment out in production to improve performance" />
       <item value="Catlet" />
       <item value="classpath" />
-      <item value="apidoc sourcedir" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
