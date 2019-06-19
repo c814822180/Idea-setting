@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="功能" />
+      <item value="annotation" />
       <item value="Buffered Reader" />
       <item value="points Fee" />
       <item value="coupon Fee" />
@@ -49,13 +51,11 @@
       <item value="poll" />
       <item value="get Player" />
       <item value="comment out in production to improve performance" />
-      <item value="Catlet" />
-      <item value="classpath" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
