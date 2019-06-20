@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* (Optional) Unique constraints that are to be placed on * the table. These are only used if table generation is in * effect. These constraints apply in addition to any constraints * specified by the &lt;code&gt;Column&lt;/code&gt; and &lt;code&gt;JoinColumn&lt;/code&gt; * annotations and constraints entailed by primary key mappings. * &lt;p&gt; Defaults to no additional constraints." />
       <item value="功能" />
       <item value="annotation" />
       <item value="Buffered Reader" />
@@ -50,12 +51,11 @@
       <item value=" String-argument" />
       <item value="poll" />
       <item value="get Player" />
-      <item value="comment out in production to improve performance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
