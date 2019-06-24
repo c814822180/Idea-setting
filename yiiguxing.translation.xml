@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Variety" />
+      <item value="set Variety Count" />
       <item value="* (Optional) Unique constraints that are to be placed on * the table. These are only used if table generation is in * effect. These constraints apply in addition to any constraints * specified by the &lt;code&gt;Column&lt;/code&gt; and &lt;code&gt;JoinColumn&lt;/code&gt; * annotations and constraints entailed by primary key mappings. * &lt;p&gt; Defaults to no additional constraints." />
       <item value="功能" />
       <item value="annotation" />
@@ -49,13 +51,11 @@
       <item value="可用" />
       <item value="was expecting comma to separate Array entries" />
       <item value=" String-argument" />
-      <item value="poll" />
-      <item value="get Player" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
