@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="** * (Optional) The basic or embeddable class that is the element * type of the collection. This element is optional only if the * collection field or property is defined using Java generics, * and must be specified otherwise. It defaults to the * paramterized type of the collection when defined using * generics." />
+      <item value="* Specifies a collection of instances of a basic type or embeddable * class. * Must be specified if the collection is to be mapped by * means of a collection table." />
       <item value="* Custom SQL statement for delete of an entity/collection." />
       <item value="Where clause to add to the element Entity or target entity of a collection. The clause is written in SQL. * A common use case here is for soft-deletes." />
       <item value="女性" />
@@ -49,13 +51,11 @@
       <item value="jin zhi" />
       <item value="净" />
       <item value="总计" />
-      <item value="总运费" />
-      <item value="total" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="71" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
