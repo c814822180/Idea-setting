@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation to exclude repository interfaces from being picked up and thus in consequence getting an instance being * created. * &lt;p/&gt; * This will typically be used when providing an extended base interface for all repositories in combination with a * custom repository base class to implement methods declared in that intermediate interface. In this case you typically * derive your concrete repository interfaces from the intermediate one but don't want to create a Spring bean for the * intermediate interface. * * @author Oliver Gierke" />
       <item value="** * (Optional) The basic or embeddable class that is the element * type of the collection. This element is optional only if the * collection field or property is defined using Java generics, * and must be specified otherwise. It defaults to the * paramterized type of the collection when defined using * generics." />
       <item value="* Specifies a collection of instances of a basic type or embeddable * class. * Must be specified if the collection is to be mapped by * means of a collection table." />
       <item value="* Custom SQL statement for delete of an entity/collection." />
@@ -50,12 +51,11 @@
       <item value="  净值" />
       <item value="jin zhi" />
       <item value="净" />
-      <item value="总计" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
