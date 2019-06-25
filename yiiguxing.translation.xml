@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Marks a property as the update timestamp of the containing entity. The property value will be set to the current VM * date whenever the owning entity is updated." />
+      <item value="Marks a property as the creation timestamp of the containing entity. The property value will be set to the current * VM date exactly once when saving the owning entity for the first time." />
       <item value="/** * A TypeMismatchException raised while resolving a controller method argument. * Provides access to the target {@link org.springframework.core.MethodParameter * MethodParameter}. *" />
       <item value="Variety" />
       <item value="set Variety Count" />
@@ -49,13 +51,11 @@
       <item value="version managed from" />
       <item value="null" />
       <item value="injection" />
-      <item value="可用" />
-      <item value="was expecting comma to separate Array entries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE" value="68" />
+        <entry key="ENGLISH" value="69" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
