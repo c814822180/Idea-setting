@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="principal" />
+      <item value="credentials" />
       <item value="Conflict" />
       <item value="algorithm" />
       <item value="Determines if Spring Security's pre post annotations should be enabled. Default is * false. * @return true if pre post annotations should be enabled false otherwise." />
@@ -49,13 +51,11 @@
       <item value="capacity" />
       <item value="violating" />
       <item value="Retrieves" />
-      <item value="Specification in the sense of Domain Driven Design" />
-      <item value="* Specification in the sense of Domain Driven Design." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
