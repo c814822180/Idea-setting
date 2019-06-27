@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MAINTAINER" />
       <item value="/** * Limits the acceptable values for this parameter. * &lt;p&gt; * There are three ways to describe the allowable values: * &lt;ol&gt; * &lt;li&gt;To set a list of values, provide a comma-separated list. * For example: {@code first, second, third}.&lt;/li&gt; * &lt;li&gt;To set a range of values, start the value with &quot;range&quot;, and surrounding by square * brackets include the minimum and maximum values, or round brackets for exclusive minimum and maximum values. * For example: {@code range[1, 5]}, {@code range(1, 5)}, {@code range[1, 5)}.&lt;/li&gt; * &lt;li&gt;To set a minimum/maximum value, use the same format for range but use &quot;infinity&quot; * or &quot;-infinity&quot; as the second value. For example, {@code range[1, infinity]} means the * minimum allowable value of this parameter is 1.&lt;/li&gt; * &lt;/ol&gt; */" />
       <item value="2019-06-26 17:09:26.794 INFO [ main] .RepositoryConfigurationExtensionSupport@isStrictRepositoryCandidate:363 : Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.qty.cab.edm.repository.ClientIdentityRepo." />
       <item value="* Specify that URLs are allowed by anyone." />
@@ -50,12 +51,11 @@
       <item value="* Inserts the specified element into this queue if it is possible to do so * immediately without violating capacity restrictions, returning * {@code true} upon success and throwing an {@code IllegalStateException} * if no space is currently available." />
       <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
       <item value="* Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions." />
-      <item value="restrictions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
