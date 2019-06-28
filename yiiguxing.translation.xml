@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="身份" />
+      <item value="reject" />
+      <item value="驳回" />
+      <item value="通过" />
       <item value="MAINTAINER" />
       <item value="/** * Limits the acceptable values for this parameter. * &lt;p&gt; * There are three ways to describe the allowable values: * &lt;ol&gt; * &lt;li&gt;To set a list of values, provide a comma-separated list. * For example: {@code first, second, third}.&lt;/li&gt; * &lt;li&gt;To set a range of values, start the value with &quot;range&quot;, and surrounding by square * brackets include the minimum and maximum values, or round brackets for exclusive minimum and maximum values. * For example: {@code range[1, 5]}, {@code range(1, 5)}, {@code range[1, 5)}.&lt;/li&gt; * &lt;li&gt;To set a minimum/maximum value, use the same format for range but use &quot;infinity&quot; * or &quot;-infinity&quot; as the second value. For example, {@code range[1, infinity]} means the * minimum allowable value of this parameter is 1.&lt;/li&gt; * &lt;/ol&gt; */" />
       <item value="2019-06-26 17:09:26.794 INFO [ main] .RepositoryConfigurationExtensionSupport@isStrictRepositoryCandidate:363 : Spring Data Redis - Could not safely identify store assignment for repository candidate interface com.qty.cab.edm.repository.ClientIdentityRepo." />
@@ -47,15 +51,11 @@
       <item value="literal" />
       <item value="* Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} * unless both neighbors are equidistant, in which case round up. * Behaves as for {@code ROUND_UP} if the discarded fraction is * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note * that this is the rounding mode that most of us were taught in * grade school." />
       <item value="Annotation that can be used to define one or more alternative names for * a property, accepted during deserialization as alternative to the official * name. Alias information is also exposed during POJO introspection, but has * no effect during serialization where primary name is always used." />
-      <item value="SingularAttribute named billing and of type com.yydscm.model.BillingFee is not present" />
-      <item value="* Inserts the specified element into this queue if it is possible to do so * immediately without violating capacity restrictions, returning * {@code true} upon success and throwing an {@code IllegalStateException} * if no space is currently available." />
-      <item value="Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions. * When using a capacity-restricted queue, this method is generally * preferable to {@link #add}, which can fail to insert an element only * by throwing an exception." />
-      <item value="* Inserts the specified element into this queue if it is possible to do * so immediately without violating capacity restrictions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="89" />
-        <entry key="ENGLISH" value="90" />
+        <entry key="CHINESE" value="90" />
+        <entry key="ENGLISH" value="91" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
