@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分析" />
+      <item value="Member Ana" />
+      <item value="Annotation that marks a method as a candidate for &lt;i&gt;asynchronous&lt;/i&gt; execution. * Can also be used at the type level, in which case all of the type's methods are * considered as asynchronous." />
       <item value="Annotation that marks a method to be the target of a Rabbit message * listener within a class that is annotated with {@link RabbitListener}. * * &lt;p&gt;See the {@link RabbitListener} for information about permitted method signatures * and available parameters. * &lt;p&gt;&lt;b&gt;It is important to understand that when a message arrives, the method selection * depends on the payload type. The type is matched with a single non-annotated parameter, * or one that is annotated with {@code @Payload}. * There must be no ambiguity - the system * must be able to select exactly one method based on the payload type.&lt;/b&gt;" />
       <item value="Document DTO" />
       <item value="身份" />
@@ -48,15 +51,13 @@
       <item value="multiply" />
       <item value="collection Fee" />
       <item value="find By Logistics Uuid" />
-      <item value="A class can implement the &lt;code&gt;Observer&lt;/code&gt; interface when it * wants to be informed of changes in observable objects." />
-      <item value="informed" />
-      <item value="literal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
         <entry key="FRENCH" value="1" />
+        <entry key="MALAY" value="1" />
       </map>
     </option>
   </component>
