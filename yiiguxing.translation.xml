@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="刺激点" />
       <item value="* Rounding mode to round towards positive infinity. If the * {@code BigDecimal} is positive, behaves as for * {@code ROUND_UP}; if negative, behaves as for * {@code ROUND_DOWN}. Note that this rounding mode never * decreases the calculated value." />
       <item value="* Rounding mode to round towards negative infinity. If the * {@code BigDecimal} is positive, behave as for * {@code ROUND_DOWN}; if negative, behave as for * {@code ROUND_UP}. Note that this rounding mode never * increases the calculated value." />
       <item value="* Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} * unless both neighbors are equidistant, in which case round up. * Behaves as for {@code ROUND_UP} if the discarded fraction is * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note * that this is the rounding mode that most of us were taught in * grade school." />
@@ -50,7 +51,6 @@
       <item value="coupon Fee" />
       <item value="receipt Fee" />
       <item value="Used to specify the path and boundaries for a find operation or query." />
-      <item value="Specifies that the property or field is not persistent. It is used * to annotate a property or field of an entity class, mapped * superclass, or embeddable class." />
     </histories>
     <option name="languageScores">
       <map>
