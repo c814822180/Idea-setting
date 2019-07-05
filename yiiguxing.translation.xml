@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* Rounding mode to round towards positive infinity. If the * {@code BigDecimal} is positive, behaves as for * {@code ROUND_UP}; if negative, behaves as for * {@code ROUND_DOWN}. Note that this rounding mode never * decreases the calculated value." />
+      <item value="* Rounding mode to round towards negative infinity. If the * {@code BigDecimal} is positive, behave as for * {@code ROUND_DOWN}; if negative, behave as for * {@code ROUND_UP}. Note that this rounding mode never * increases the calculated value." />
+      <item value="* Rounding mode to round towards {@literal &quot;nearest neighbor&quot;} * unless both neighbors are equidistant, in which case round up. * Behaves as for {@code ROUND_UP} if the discarded fraction is * &amp;ge; 0.5; otherwise, behaves as for {@code ROUND_DOWN}. Note * that this is the rounding mode that most of us were taught in * grade school." />
       <item value="分析" />
       <item value="Member Ana" />
       <item value="Annotation that marks a method as a candidate for &lt;i&gt;asynchronous&lt;/i&gt; execution. * Can also be used at the type level, in which case all of the type's methods are * considered as asynchronous." />
@@ -48,14 +51,11 @@
       <item value="receipt Fee" />
       <item value="Used to specify the path and boundaries for a find operation or query." />
       <item value="Specifies that the property or field is not persistent. It is used * to annotate a property or field of an entity class, mapped * superclass, or embeddable class." />
-      <item value="multiply" />
-      <item value="collection Fee" />
-      <item value="find By Logistics Uuid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="96" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="FRENCH" value="1" />
         <entry key="MALAY" value="1" />
       </map>
