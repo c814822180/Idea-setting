@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotation indicating that a method (or all methods on a class) triggers a * {@link org.springframework.cache.Cache#evict(Object) cache evict} operation. * * &lt;p&gt;This annotation may be used as a &lt;em&gt;meta-annotation&lt;/em&gt; to create custom * &lt;em&gt;composed annotations&lt;/em&gt; with attribute overrides." />
       <item value="刺激点" />
       <item value="* Rounding mode to round towards positive infinity. If the * {@code BigDecimal} is positive, behaves as for * {@code ROUND_UP}; if negative, behaves as for * {@code ROUND_DOWN}. Note that this rounding mode never * decreases the calculated value." />
       <item value="* Rounding mode to round towards negative infinity. If the * {@code BigDecimal} is positive, behave as for * {@code ROUND_DOWN}; if negative, behave as for * {@code ROUND_UP}. Note that this rounding mode never * increases the calculated value." />
@@ -50,12 +51,11 @@
       <item value="points Fee" />
       <item value="coupon Fee" />
       <item value="receipt Fee" />
-      <item value="Used to specify the path and boundaries for a find operation or query." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
         <entry key="FRENCH" value="1" />
         <entry key="MALAY" value="1" />
       </map>
