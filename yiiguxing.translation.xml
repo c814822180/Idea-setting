@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the number of rows that are kept in memory until flushed out, see above." />
       <item value="* Return the name of the parameter in the multipart form." />
       <item value="Return the name of the parameter in the multipart form." />
       <item value="Return the original filename in the client's filesystem. * &lt;p&gt;This may contain path information depending on the browser used, * but it typically will not with any other than Opera. * @return the original filename, or the empty String if no file has been chosen * in the multipart form, or {@code null} if not defined or not available" />
@@ -50,12 +51,11 @@
       <item value="Variety" />
       <item value="set Variety Count" />
       <item value="* (Optional) Unique constraints that are to be placed on * the table. These are only used if table generation is in * effect. These constraints apply in addition to any constraints * specified by the &lt;code&gt;Column&lt;/code&gt; and &lt;code&gt;JoinColumn&lt;/code&gt; * annotations and constraints entailed by primary key mappings. * &lt;p&gt; Defaults to no additional constraints." />
-      <item value="功能" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="102" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="FRENCH" value="1" />
         <entry key="MALAY" value="1" />
       </map>
